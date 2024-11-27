@@ -1,0 +1,4 @@
+androguard
+click
+colorama
+jsbeautifier
